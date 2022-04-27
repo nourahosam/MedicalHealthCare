@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JUnit/src"/>
+	<classpathentry kind="src" path="RMIClient/src"/>
+	<classpathentry kind="src" path="RMIServer/src"/>
+	<classpathentry kind="lib" path="JUnit/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="Mongo JAR Files-20210113/bson-3.11.1.jar"/>
+	<classpathentry kind="lib" path="Mongo JAR Files-20210113/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="Mongo JAR Files-20210113/mongodb-driver-3.11.1.jar"/>
+	<classpathentry kind="lib" path="Mongo JAR Files-20210113/mongodb-driver-core-3.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
